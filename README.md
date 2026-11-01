@@ -2,13 +2,13 @@
 
 ## Installation
 First run
-'''
+```bash
 pip install pygame numba numpy
-'''
+```
 Then do
-'''
+```bash
 python jp.py
-'''
+```
 ## Features
 Allows interactive zooming into the map, allowing one to look at specific bifurcation points and chaotic repition.
 Uses Numba to turn calculations into C-level speed, allowing for hundreds of thousands of calculations per frame.
