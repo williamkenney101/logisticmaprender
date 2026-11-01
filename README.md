@@ -10,7 +10,7 @@ Then do
 python jp.py
 ```
 ## Features
-Allows interactive zooming into the map, allowing one to look at specific bifurcation points and chaotic repition. 
+Allows interactive zooming into the map, allowing one to look at specific bifurcation points and chaotic repition.  
 Uses Numba to turn calculations into C-level speed, allowing for hundreds of thousands of calculations per frame.  
 Density accumulator allows low level bifurcations to be seen while also allowing chaotic ones to be seen.  
 Displays change in r and x to see how far you're in.  
